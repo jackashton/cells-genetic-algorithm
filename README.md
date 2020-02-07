@@ -9,5 +9,5 @@ from the previous generation is black.
 Each Cell has an energy allowance, for each unit of energy the Cell accelerates in a direction. If the Cell runs out of energy,
 comes into contact with another organism it is considered dead. 
 
-It takes approx 300-400 generations for the population to converge. Different mutation methods and energy allowances for cells 
+It takes approx 200 generations for the population to converge. Different mutation methods and energy allowances for cells 
 can increase or decrease the number of generations requried for convergence. 
