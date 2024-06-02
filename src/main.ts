@@ -190,7 +190,7 @@ class Cell extends Organism {
    * Return Cell that has the same directions, x,y and energy values that this instance had when it was created.
    */
   clone() {
-    const clone = new Cell(this.position, this.maxEnergy);
+    const clone = new Cell(this.startPosition, this.maxEnergy);
     clone.directions = [...this.directions];
     return clone;
   }
