@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+}
+
+canvas {
+  display: block;
+}
+
+canvas {
+  display: block;
+  padding: 0;
+  margin: auto;
+  background-color: #bfbfbf;
+}
+
+h1 {
+  display: block;
+  text-align: center;
+}
+

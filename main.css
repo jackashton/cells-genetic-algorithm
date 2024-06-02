@@ -1,9 +1,7 @@
-canvas.cells {
+canvas {
   display: block;
   padding: 0;
   margin: auto;
-  height: 600px;
-  width: 600px;
   background-color: #eb2d43;
 }
 
